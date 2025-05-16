@@ -1,0 +1,15 @@
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\bin\Debug\net8.0\Task2Piy.exe
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\bin\Debug\net8.0\Task2Piy.deps.json
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\bin\Debug\net8.0\Task2Piy.runtimeconfig.json
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\bin\Debug\net8.0\Task2Piy.dll
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\bin\Debug\net8.0\Task2Piy.pdb
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.AssemblyInfoInputs.cache
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.AssemblyInfo.cs
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.csproj.CoreCompileInputs.cache
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.sourcelink.json
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.dll
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\refint\Task2Piy.dll
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.pdb
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\Task2Piy.genruntimeconfig.cache
+C:\Users\nekra\Desktop\KPZ\KPZlab4\task2-poserednik\Task2Piy\Task2Piy\obj\Debug\net8.0\ref\Task2Piy.dll
